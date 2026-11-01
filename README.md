@@ -1,5 +1,7 @@
 # CariJajan - Chatbot Pencari Makanan UMKM
 
+![Tampilan CariJajan](screenshot%20UI%20chatbot/Cuplikan%20layar%202026-11-01%20230917.png)
+
 Chatbot berbasis web yang memakai **Google Gemini API** untuk membantu pembeli menemukan makanan
 dari **UMKM kuliner lokal yang belum ada di aplikasi pesan-antar online**: siapa penjualnya,
 lokasinya di mana, harganya berapa, jam buka, dan cara memesannya.
