@@ -1,0 +1,3676 @@
+[
+  {
+    "id": "u01",
+    "nama_usaha": "Pentol & Basreng Mang Ujang",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Pentol kuah/bakar (isi 10)",
+        "harga": 5000
+      },
+      {
+        "nama": "Pentol bakar pedas manis (isi 10)",
+        "harga": 7000
+      },
+      {
+        "nama": "Basreng original 100 gr",
+        "harga": 10000
+      },
+      {
+        "nama": "Basreng pedas daun jeruk 100 gr",
+        "harga": 12000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya, depan gerbang SMA Negeri 2 Depok",
+    "patokan": "Gerobak biru dengan payung kuning",
+    "jam_buka": "10.00 - 18.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk basreng kiloan"
+    ],
+    "whatsapp": "0812-0000-0001",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Beji dan Kemiri; berhenti di depan SMA Negeri 2 Depok saat jam pulang sekolah",
+    "menu_andalan": "Pentol bakar pedas manis (isi 10)",
+    "populer": false,
+    "jadwal_keliling": [
+      {
+        "jam": "10.00 - 12.00",
+        "lokasi": "Keliling Beji dan Jl. Kemiri Raya"
+      },
+      {
+        "jam": "12.00 - 15.00",
+        "lokasi": "Berhenti di depan SMA Negeri 2 Depok (jam pulang sekolah)"
+      },
+      {
+        "jam": "15.00 - 18.00",
+        "lokasi": "Keliling Kemiri sampai Margonda"
+      }
+    ],
+    "gambar": "images/food/01.jpg"
+  },
+  {
+    "id": "u02",
+    "nama_usaha": "Cilok & Cilor Kang Asep",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Cilok bumbu kacang",
+        "harga": 7000
+      },
+      {
+        "nama": "Cilok kuah pedas",
+        "harga": 8000
+      },
+      {
+        "nama": "Cilor (aci telor) isi 5",
+        "harga": 8000
+      },
+      {
+        "nama": "Cilok goreng crispy",
+        "harga": 9000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, dekat Stasiun Depok Baru",
+    "patokan": "Gerobak di depan minimarket",
+    "jam_buka": "09.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar stasiun"
+    ],
+    "whatsapp": "0812-0000-0002",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling sekitar Stasiun Depok Baru dan Jl. Nusantara; berhenti di depan minimarket saat jam ramai",
+    "menu_andalan": "Cilok kuah pedas",
+    "populer": true,
+    "jadwal_keliling": [
+      {
+        "jam": "09.00 - 12.00",
+        "lokasi": "Keliling sekitar Jl. Nusantara Raya"
+      },
+      {
+        "jam": "12.00 - 17.00",
+        "lokasi": "Berhenti di depan minimarket dekat Stasiun Depok Baru"
+      },
+      {
+        "jam": "17.00 - 20.00",
+        "lokasi": "Keliling perumahan sekitar stasiun"
+      }
+    ],
+    "gambar": "images/food/02.jpg"
+  },
+  {
+    "id": "u03",
+    "nama_usaha": "Bakso Urat Pak Slamet",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Bakso urat",
+        "harga": 18000
+      },
+      {
+        "nama": "Bakso beranak",
+        "harga": 22000
+      },
+      {
+        "nama": "Bakso telur puyuh",
+        "harga": 20000
+      },
+      {
+        "nama": "Es teh manis",
+        "harga": 4000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda No. 21",
+    "patokan": "Warung tenda hijau dekat Pasar Pancoran Mas",
+    "jam_buka": "10.00 - 21.00 (tutup hari Selasa)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0003",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bakso urat",
+    "populer": true,
+    "gambar": "images/food/03.jpg"
+  },
+  {
+    "id": "u04",
+    "nama_usaha": "Mie Ayam Pak Kumis",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Mie ayam",
+        "harga": 15000
+      },
+      {
+        "nama": "Mie ayam bakso",
+        "harga": 18000
+      },
+      {
+        "nama": "Mie ayam pangsit goreng",
+        "harga": 17000
+      },
+      {
+        "nama": "Pangsit goreng (isi 5)",
+        "harga": 5000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru No. 8",
+    "patokan": "Sebelah toko bangunan",
+    "jam_buka": "07.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0004",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Mie ayam bakso",
+    "populer": true,
+    "gambar": "images/food/04.jpg"
+  },
+  {
+    "id": "u05",
+    "nama_usaha": "Telur Gulung Mang Ade",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Telur gulung (per tusuk)",
+        "harga": 2000
+      },
+      {
+        "nama": "Telur gulung (5 tusuk)",
+        "harga": 9000
+      },
+      {
+        "nama": "Sosis bakar",
+        "harga": 6000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Depan SDN Pondok Cina 1",
+    "patokan": "Gerobak merah di bawah pohon mangga",
+    "jam_buka": "13.00 - 18.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0005",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Telur gulung (5 tusuk)",
+    "populer": false,
+    "gambar": "images/food/05.jpg"
+  },
+  {
+    "id": "u06",
+    "nama_usaha": "Kue Putu Pak Dul",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue putu (isi 5)",
+        "harga": 5000
+      },
+      {
+        "nama": "Kue putu (isi 10)",
+        "harga": 10000
+      },
+      {
+        "nama": "Kue putu ayu",
+        "harga": 6000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 33, dekat lampu merah Cimanggis",
+    "patokan": "Suara peluit kukusan khas sore hari",
+    "jam_buka": "16.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Cimanggis"
+    ],
+    "whatsapp": "0812-0000-0006",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Cimanggis sampai Mekarsari sore hari (16.00 - 21.00); ikuti suara peluit kukusan",
+    "menu_andalan": "Kue putu (isi 10)",
+    "populer": true,
+    "jadwal_keliling": [
+      {
+        "jam": "16.00 - 18.00",
+        "lokasi": "Sekitar lampu merah Cimanggis dan Jl. Raya Bogor"
+      },
+      {
+        "jam": "18.00 - 21.00",
+        "lokasi": "Keliling Mekarsari dan perumahan sekitar"
+      }
+    ],
+    "gambar": "images/food/06.jpg"
+  },
+  {
+    "id": "u07",
+    "nama_usaha": "Kue Pukis Bu Ningsih",
+    "kategori": "Kue basah",
+    "menu": [
+      {
+        "nama": "Pukis original (isi 5)",
+        "harga": 10000
+      },
+      {
+        "nama": "Pukis coklat keju (isi 5)",
+        "harga": 15000
+      },
+      {
+        "nama": "Pukis green tea (isi 5)",
+        "harga": 15000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan No. 40",
+    "patokan": "Lapak kecil depan toko kelontong",
+    "jam_buka": "08.00 - 16.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0007",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Pukis coklat keju (isi 5)",
+    "populer": false,
+    "gambar": "images/food/07.jpg"
+  },
+  {
+    "id": "u08",
+    "nama_usaha": "Gorengan Bu Haji Marni",
+    "kategori": "Gorengan",
+    "menu": [
+      {
+        "nama": "Bakwan",
+        "harga": 1500
+      },
+      {
+        "nama": "Tahu isi",
+        "harga": 2000
+      },
+      {
+        "nama": "Tempe mendoan",
+        "harga": 2000
+      },
+      {
+        "nama": "Pisang goreng",
+        "harga": 2000
+      },
+      {
+        "nama": "Cireng isi",
+        "harga": 2000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Jl. Kukusan Teknik, dekat gerbang Teknik UI",
+    "patokan": "Warung gorengan dengan etalase kaca",
+    "jam_buka": "06.00 - 19.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan 50 pcs ke atas"
+    ],
+    "whatsapp": "0812-0000-0008",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bakwan",
+    "populer": true,
+    "gambar": "images/food/08.jpg"
+  },
+  {
+    "id": "u09",
+    "nama_usaha": "Piscok Lumer Kak Rina",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Piscok coklat (isi 5)",
+        "harga": 10000
+      },
+      {
+        "nama": "Piscok keju (isi 5)",
+        "harga": 12000
+      },
+      {
+        "nama": "Piscok campur (isi 10)",
+        "harga": 20000
+      }
+    ],
+    "area": "Cinere, Depok",
+    "alamat": "Jl. Cinere Raya, dekat Cinere Mall sisi barat",
+    "patokan": "Gerobak putih tulisan Piscok Lumer",
+    "jam_buka": "14.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Cinere"
+    ],
+    "whatsapp": "0812-0000-0009",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Piscok keju (isi 5)",
+    "populer": true,
+    "gambar": "images/food/09.jpg"
+  },
+  {
+    "id": "u10",
+    "nama_usaha": "Risol Mayo Dapur Mama Ayu",
+    "kategori": "Kue basah",
+    "menu": [
+      {
+        "nama": "Risol mayo (per biji)",
+        "harga": 3500
+      },
+      {
+        "nama": "Risol mayo (box isi 6)",
+        "harga": 18000
+      },
+      {
+        "nama": "Risol mayo (box isi 12)",
+        "harga": 34000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Jl. Limo Raya No. 15",
+    "patokan": "Rumah pagar hitam, ambil di teras",
+    "jam_buka": "Pre-order via WhatsApp (H-1), ambil 09.00 - 17.00",
+    "cara_pesan": [
+      "WhatsApp",
+      "COD sekitar Limo"
+    ],
+    "whatsapp": "0812-0000-0010",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Risol mayo (per biji)",
+    "populer": false,
+    "gambar": "images/food/10.jpg"
+  },
+  {
+    "id": "u11",
+    "nama_usaha": "Kue Cucur & Klepon Nenek Iyah",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue cucur (per biji)",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue cucur (isi 5)",
+        "harga": 12000
+      },
+      {
+        "nama": "Klepon (isi 5)",
+        "harga": 10000
+      },
+      {
+        "nama": "Onde-onde mini (isi 5)",
+        "harga": 7000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Pasar Cilodong, blok jajanan lantai 1",
+    "patokan": "Dekat penjual tahu bulat",
+    "jam_buka": "05.00 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0011",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue cucur (per biji)",
+    "populer": false,
+    "gambar": "images/food/11.jpg"
+  },
+  {
+    "id": "u12",
+    "nama_usaha": "Seblak Teh Imas",
+    "kategori": "Makanan pedas",
+    "menu": [
+      {
+        "nama": "Seblak kerupuk komplit",
+        "harga": 15000
+      },
+      {
+        "nama": "Seblak ceker",
+        "harga": 18000
+      },
+      {
+        "nama": "Seblak makaroni",
+        "harga": 14000
+      },
+      {
+        "nama": "Batagor kuah",
+        "harga": 14000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Jl. Kukusan Kelurahan No. 7",
+    "patokan": "Dekat kos Putri Asri, ruko kecil",
+    "jam_buka": "13.00 - 22.00 (tutup hari Senin)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar kampus UI"
+    ],
+    "whatsapp": "0812-0000-0012",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Seblak ceker",
+    "populer": true,
+    "gambar": "images/food/12.jpg"
+  },
+  {
+    "id": "u13",
+    "nama_usaha": "Ayam Geprek Bang Jago",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Ayam geprek + nasi (level 1-5)",
+        "harga": 15000
+      },
+      {
+        "nama": "Geprek keju mozzarella + nasi",
+        "harga": 20000
+      },
+      {
+        "nama": "Geprek + es teh",
+        "harga": 18000
+      },
+      {
+        "nama": "Tambah nasi",
+        "harga": 4000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, gang samping Gunadarma",
+    "patokan": "Warung dengan banner api merah",
+    "jam_buka": "10.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Margonda"
+    ],
+    "whatsapp": "0812-0000-0013",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Geprek keju mozzarella + nasi",
+    "populer": true,
+    "gambar": "images/food/13.jpg"
+  },
+  {
+    "id": "u14",
+    "nama_usaha": "Ayam Cabai Ijo Mas Dodi",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Ayam cabai ijo + nasi",
+        "harga": 18000
+      },
+      {
+        "nama": "Ayam cabai ijo paket jumbo (2 potong)",
+        "harga": 25000
+      },
+      {
+        "nama": "Tahu tempe cabai ijo",
+        "harga": 10000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Jl. Depok Jaya No. 3",
+    "patokan": "Warung makan hijau dekat perempatan",
+    "jam_buka": "10.00 - 21.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0014",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Ayam cabai ijo + nasi",
+    "populer": false,
+    "gambar": "images/food/14.jpg"
+  },
+  {
+    "id": "u15",
+    "nama_usaha": "Pempek Bu Lastri",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Pempek kapal selam",
+        "harga": 12000
+      },
+      {
+        "nama": "Pempek lenjer",
+        "harga": 9000
+      },
+      {
+        "nama": "Tekwan",
+        "harga": 15000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya No. 12",
+    "patokan": "Depan masjid Al-Hidayah",
+    "jam_buka": "08.00 - 17.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0015",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Pempek kapal selam",
+    "populer": true,
+    "gambar": "images/food/15.jpg"
+  },
+  {
+    "id": "u16",
+    "nama_usaha": "Soto Betawi Pak Haji Mamat",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Soto Betawi daging",
+        "harga": 28000
+      },
+      {
+        "nama": "Soto Betawi paru",
+        "harga": 25000
+      },
+      {
+        "nama": "Nasi putih tambah",
+        "harga": 4000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 35 No. 31",
+    "patokan": "Dekat gerbang perumahan Mekarsari",
+    "jam_buka": "07.00 - 15.00 (tutup hari Jumat)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0016",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Soto Betawi daging",
+    "populer": false,
+    "gambar": "images/food/16.jpg"
+  },
+  {
+    "id": "u17",
+    "nama_usaha": "Es Dawet Ireng Bu Warti",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es dawet ireng",
+        "harga": 8000
+      },
+      {
+        "nama": "Es cendol durian",
+        "harga": 12000
+      },
+      {
+        "nama": "Wedang ronde",
+        "harga": 9000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Gg. Mawar",
+    "patokan": "Gerobak hijau di bawah pohon asam",
+    "jam_buka": "10.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0017",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es dawet ireng",
+    "populer": false,
+    "gambar": "images/food/17.jpg"
+  },
+  {
+    "id": "u18",
+    "nama_usaha": "Tahu Gejrot Bu Ratmi",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Tahu gejrot",
+        "harga": 8000
+      },
+      {
+        "nama": "Es cincau hijau",
+        "harga": 6000
+      },
+      {
+        "nama": "Asinan sayur",
+        "harga": 10000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Depan Pasar Depok Jaya sisi barat",
+    "patokan": "Payung merah dekat tukang parkir",
+    "jam_buka": "10.00 - 18.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0018",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Tahu gejrot",
+    "populer": false,
+    "gambar": "images/food/18.jpg"
+  },
+  {
+    "id": "u19",
+    "nama_usaha": "Lontong Sayur Uni Dewi",
+    "kategori": "Sarapan",
+    "menu": [
+      {
+        "nama": "Lontong sayur",
+        "harga": 13000
+      },
+      {
+        "nama": "Lontong sayur + telur",
+        "harga": 16000
+      },
+      {
+        "nama": "Gorengan (per buah)",
+        "harga": 1500
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Gang Kober, depan kos Cempaka",
+    "patokan": "Meja panjang di teras rumah",
+    "jam_buka": "05.30 - 10.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan sehari sebelumnya"
+    ],
+    "whatsapp": "0812-0000-0019",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Lontong sayur",
+    "populer": false,
+    "gambar": "images/food/19.jpg"
+  },
+  {
+    "id": "u20",
+    "nama_usaha": "Kue Cubit Kak Dimas",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Kue cubit original (isi 10)",
+        "harga": 10000
+      },
+      {
+        "nama": "Kue cubit coklat keju (isi 10)",
+        "harga": 15000
+      },
+      {
+        "nama": "Kue cubit green tea (isi 10)",
+        "harga": 15000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Depan SDN Sukmajaya 2",
+    "patokan": "Gerobak kuning",
+    "jam_buka": "14.00 - 19.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0020",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kue cubit original (isi 10)",
+    "populer": false,
+    "gambar": "images/food/20.jpg"
+  },
+  {
+    "id": "u21",
+    "nama_usaha": "Bika Ambon Oma Tina",
+    "kategori": "Kue dan oleh-oleh",
+    "menu": [
+      {
+        "nama": "Bika ambon potong",
+        "harga": 6000
+      },
+      {
+        "nama": "Bika ambon utuh (loyang kecil)",
+        "harga": 55000
+      },
+      {
+        "nama": "Lapis legit pandan (10 potong)",
+        "harga": 65000
+      }
+    ],
+    "area": "Cinere, Depok",
+    "alamat": "Jl. Cinere Raya Gg. Anggrek No. 3",
+    "patokan": "Rumah pagar putih, ada papan kecil",
+    "jam_buka": "09.00 - 16.00 (loyang pesan sehari sebelumnya)",
+    "cara_pesan": [
+      "WhatsApp",
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0021",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bika ambon potong",
+    "populer": false,
+    "gambar": "images/food/21.jpg"
+  },
+  {
+    "id": "u22",
+    "nama_usaha": "Jajan Pasar Mbak Rini",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Klepon (per biji)",
+        "harga": 2500
+      },
+      {
+        "nama": "Lemper ayam",
+        "harga": 3000
+      },
+      {
+        "nama": "Onde-onde",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue lapis",
+        "harga": 3500
+      },
+      {
+        "nama": "Ongol-ongol",
+        "harga": 3500
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Lapak 14, Pasar Pancoran Mas",
+    "patokan": "Dekat pintu masuk sisi timur",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk jumlah banyak"
+    ],
+    "whatsapp": "0812-0000-0022",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Klepon (per biji)",
+    "populer": false,
+    "gambar": "images/food/22.jpg"
+  },
+  {
+    "id": "u23",
+    "nama_usaha": "Es Oyen Kang Dedi",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es oyen (alpukat, kelapa muda, nangka, susu coklat)",
+        "harga": 12000
+      },
+      {
+        "nama": "Es oyen jumbo",
+        "harga": 15000
+      },
+      {
+        "nama": "Es kelapa muda",
+        "harga": 8000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat perempatan Gg. Kober",
+    "patokan": "Gerobak oranye dengan tulisan Es Oyen",
+    "jam_buka": "11.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Margonda"
+    ],
+    "whatsapp": "0812-0000-0023",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es oyen (alpukat, kelapa muda, nangka, susu coklat)",
+    "populer": true,
+    "gambar": "images/food/23.jpg"
+  },
+  {
+    "id": "u24",
+    "nama_usaha": "Es Puter Pak Karto",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es puter kelapa",
+        "harga": 6000
+      },
+      {
+        "nama": "Es puter durian",
+        "harga": 8000
+      },
+      {
+        "nama": "Es puter coklat",
+        "harga": 6000
+      },
+      {
+        "nama": "Es puter campur",
+        "harga": 9000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 34, dekat Pasar Cimanggis",
+    "patokan": "Gerobak kayu dengan lonceng",
+    "jam_buka": "10.00 - 19.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0024",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Cimanggis dan sekitar Pasar Cimanggis; ditandai bunyi lonceng gerobak",
+    "menu_andalan": "Es puter kelapa",
+    "populer": false,
+    "jadwal_keliling": [
+      {
+        "jam": "10.00 - 13.00",
+        "lokasi": "Keliling sekitar Pasar Cimanggis"
+      },
+      {
+        "jam": "13.00 - 16.00",
+        "lokasi": "Keliling permukiman Cimanggis (ikuti bunyi lonceng)"
+      },
+      {
+        "jam": "16.00 - 19.00",
+        "lokasi": "Kembali berhenti dekat Pasar Cimanggis"
+      }
+    ],
+    "gambar": "images/food/24.jpg"
+  },
+  {
+    "id": "u25",
+    "nama_usaha": "Jus Segar Mbak Nia",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Jus alpukat",
+        "harga": 12000
+      },
+      {
+        "nama": "Jus mangga",
+        "harga": 10000
+      },
+      {
+        "nama": "Jus jambu",
+        "harga": 10000
+      },
+      {
+        "nama": "Jus sirsak",
+        "harga": 10000
+      },
+      {
+        "nama": "Jus melon",
+        "harga": 9000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Jl. Kukusan Teknik, dekat gerbang Teknik UI",
+    "patokan": "Kios kecil dengan deretan buah di depan",
+    "jam_buka": "09.00 - 20.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar kampus UI"
+    ],
+    "whatsapp": "0812-0000-0025",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Jus alpukat",
+    "populer": false,
+    "gambar": "images/food/25.jpg"
+  },
+  {
+    "id": "u26",
+    "nama_usaha": "Rujak & Asinan Bu Titin",
+    "kategori": "Camilan segar",
+    "menu": [
+      {
+        "nama": "Rujak buah",
+        "harga": 10000
+      },
+      {
+        "nama": "Rujak serut",
+        "harga": 8000
+      },
+      {
+        "nama": "Asinan sayur",
+        "harga": 10000
+      },
+      {
+        "nama": "Asinan buah",
+        "harga": 12000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda, depan toko emas",
+    "patokan": "Gerobak hijau dengan cobek besar",
+    "jam_buka": "10.00 - 18.00 (tutup hari Senin)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0026",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Rujak buah",
+    "populer": false,
+    "gambar": "images/food/26.jpg"
+  },
+  {
+    "id": "u27",
+    "nama_usaha": "Sempol & Otak-otak Mas Bayu",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Sempol ayam (per tusuk)",
+        "harga": 1500
+      },
+      {
+        "nama": "Otak-otak (per tusuk)",
+        "harga": 2000
+      },
+      {
+        "nama": "Tempura (per biji)",
+        "harga": 1000
+      },
+      {
+        "nama": "Sosis bakar",
+        "harga": 6000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, depan SMP Negeri 6",
+    "patokan": "Gerobak bakar dengan asap di sore hari",
+    "jam_buka": "13.00 - 20.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0027",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Sempol ayam (per tusuk)",
+    "populer": false,
+    "gambar": "images/food/27.jpg"
+  },
+  {
+    "id": "u28",
+    "nama_usaha": "Kue Ape & Serabi Mbok Sri",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue ape (isi 5)",
+        "harga": 5000
+      },
+      {
+        "nama": "Serabi kuah kinca",
+        "harga": 6000
+      },
+      {
+        "nama": "Serabi coklat keju",
+        "harga": 8000
+      },
+      {
+        "nama": "Kue putu (isi 10)",
+        "harga": 10000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Pasar Limo, blok jajanan",
+    "patokan": "Dekat penjual bubur ayam",
+    "jam_buka": "05.00 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0028",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue ape (isi 5)",
+    "populer": false,
+    "gambar": "images/food/28.jpg"
+  },
+  {
+    "id": "u29",
+    "nama_usaha": "Angkringan Mas Gito",
+    "kategori": "Angkringan",
+    "menu": [
+      {
+        "nama": "Nasi kucing",
+        "harga": 3000
+      },
+      {
+        "nama": "Nasi kucing sambal teri",
+        "harga": 5000
+      },
+      {
+        "nama": "Sate usus",
+        "harga": 2000
+      },
+      {
+        "nama": "Es teh manis",
+        "harga": 3000
+      },
+      {
+        "nama": "Kopi sachet",
+        "harga": 5000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Jl. Margonda Raya, gang samping kos Mawar",
+    "patokan": "Gerobak angkringan dengan lampu temaram",
+    "jam_buka": "17.00 - 01.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0029",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Nasi kucing",
+    "populer": false,
+    "gambar": "images/food/29.jpg"
+  },
+  {
+    "id": "u30",
+    "nama_usaha": "Nasi Padang Keliling Uda Fikri",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Nasi padang porsi hemat + telur",
+        "harga": 10000
+      },
+      {
+        "nama": "Nasi padang hemat + rendang",
+        "harga": 15000
+      },
+      {
+        "nama": "Nasi padang hemat + ayam",
+        "harga": 13000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Mangkal di depan Pasar Depok Jaya",
+    "patokan": "Motor boks hijau",
+    "jam_buka": "10.00 - 14.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan sehari sebelumnya"
+    ],
+    "whatsapp": "0812-0000-0030",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Pancoran Mas dan Depok Jaya; berhenti di depan Pasar Depok Jaya siang hari",
+    "menu_andalan": "Nasi padang porsi hemat + telur",
+    "populer": false,
+    "jadwal_keliling": [
+      {
+        "jam": "10.00 - 11.30",
+        "lokasi": "Keliling Pancoran Mas dan sekitar perkantoran"
+      },
+      {
+        "jam": "11.30 - 14.00",
+        "lokasi": "Berhenti di depan Pasar Depok Jaya"
+      }
+    ],
+    "gambar": "images/food/30.jpg"
+  },
+  {
+    "id": "u31",
+    "nama_usaha": "Kopi Starling Pak Warno",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Kopi sachet",
+        "harga": 5000
+      },
+      {
+        "nama": "Es teh manis",
+        "harga": 3000
+      },
+      {
+        "nama": "Es Nutrisari",
+        "harga": 4000
+      },
+      {
+        "nama": "Es Pop Ice",
+        "harga": 5000
+      },
+      {
+        "nama": "Milkjus",
+        "harga": 5000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Mangkal di Jl. Kukusan, dekat halte",
+    "patokan": "Sepeda dengan termos besar dan banyak gelas",
+    "jam_buka": "06.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0031",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Kukusan sampai Margonda dengan sepeda; sering berhenti di halte Jl. Kukusan",
+    "menu_andalan": "Kopi sachet",
+    "populer": false,
+    "jadwal_keliling": [
+      {
+        "jam": "06.00 - 09.00",
+        "lokasi": "Halte Jl. Kukusan (pagi, banyak pekerja dan mahasiswa)"
+      },
+      {
+        "jam": "09.00 - 17.00",
+        "lokasi": "Keliling Kukusan sampai Margonda dengan sepeda"
+      },
+      {
+        "jam": "17.00 - 22.00",
+        "lokasi": "Sekitar halte dan kos-kosan Kukusan"
+      }
+    ],
+    "gambar": "images/food/31.jpg"
+  },
+  {
+    "id": "u32",
+    "nama_usaha": "Kopi Gerobak Kak Rafi",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es kopi susu aren",
+        "harga": 15000
+      },
+      {
+        "nama": "Americano dingin",
+        "harga": 12000
+      },
+      {
+        "nama": "Es coklat",
+        "harga": 13000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya, dekat Stasiun Pondok Cina",
+    "patokan": "Gerobak hitam dengan lampu hias",
+    "jam_buka": "14.00 - 23.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0032",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es kopi susu aren",
+    "populer": false,
+    "gambar": "images/food/32.jpg"
+  },
+  {
+    "id": "u33",
+    "nama_usaha": "Bomboloni Kak Sinta",
+    "kategori": "Kue dan roti",
+    "menu": [
+      {
+        "nama": "Bomboloni coklat",
+        "harga": 9000
+      },
+      {
+        "nama": "Bomboloni keju",
+        "harga": 10000
+      },
+      {
+        "nama": "Bomboloni tiramisu",
+        "harga": 12000
+      },
+      {
+        "nama": "Box isi 4 (campur)",
+        "harga": 35000
+      }
+    ],
+    "area": "Cinere, Depok",
+    "alamat": "Jl. Cinere Raya Gg. Mawar No. 6",
+    "patokan": "Rumah pagar abu-abu, ambil di teras",
+    "jam_buka": "Pre-order via WhatsApp (H-1), ambil 10.00 - 17.00",
+    "cara_pesan": [
+      "WhatsApp",
+      "COD sekitar Cinere dan Limo"
+    ],
+    "whatsapp": "0812-0000-0033",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bomboloni tiramisu",
+    "populer": true,
+    "gambar": "images/food/33.jpg"
+  },
+  {
+    "id": "u34",
+    "nama_usaha": "Donat Madu & Donju Pak Anto",
+    "kategori": "Kue dan roti",
+    "menu": [
+      {
+        "nama": "Donat madu (isi 6)",
+        "harga": 12000
+      },
+      {
+        "nama": "Donat madu (isi 12)",
+        "harga": 22000
+      },
+      {
+        "nama": "Donju / donat jumbo",
+        "harga": 6000
+      },
+      {
+        "nama": "Donju isi coklat",
+        "harga": 8000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, depan toko buku",
+    "patokan": "Kios kecil dengan etalase donat warna-warni",
+    "jam_buka": "07.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0034",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Donat madu (isi 6)",
+    "populer": false,
+    "gambar": "images/food/34.jpg"
+  },
+  {
+    "id": "u35",
+    "nama_usaha": "Cireng Rujak & Sengkong Keju Mak Etty",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Cireng rujak (porsi)",
+        "harga": 10000
+      },
+      {
+        "nama": "Cireng isi ayam (per biji)",
+        "harga": 2000
+      },
+      {
+        "nama": "Sengkong keju (porsi)",
+        "harga": 10000
+      },
+      {
+        "nama": "Sengkong keju jumbo",
+        "harga": 15000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan, dekat SMPN 3 Depok",
+    "patokan": "Gerobak putih tulisan Cireng Rujak",
+    "jam_buka": "11.00 - 19.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0035",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Cireng rujak (porsi)",
+    "populer": false,
+    "gambar": "images/food/35.jpg"
+  },
+  {
+    "id": "u36",
+    "nama_usaha": "Jasuke Mas Rudi",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Jasuke (jagung susu keju)",
+        "harga": 7000
+      },
+      {
+        "nama": "Jasuke jumbo",
+        "harga": 10000
+      },
+      {
+        "nama": "Jasuke topping coklat",
+        "harga": 9000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, dekat Taman Kota",
+    "patokan": "Gerobak kuning dengan mesin pemarut keju",
+    "jam_buka": "15.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Sukmajaya"
+    ],
+    "whatsapp": "0812-0000-0036",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Jasuke (jagung susu keju)",
+    "populer": false,
+    "gambar": "images/food/36.jpg"
+  },
+  {
+    "id": "u37",
+    "nama_usaha": "Siomay & Batagor Kang Jajang",
+    "kategori": "Makanan khas Bandung",
+    "menu": [
+      {
+        "nama": "Siomay (porsi)",
+        "harga": 12000
+      },
+      {
+        "nama": "Batagor (porsi)",
+        "harga": 12000
+      },
+      {
+        "nama": "Siomay + batagor",
+        "harga": 15000
+      },
+      {
+        "nama": "Kentang dan tahu isi tambahan",
+        "harga": 3000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Jl. Margonda Raya, dekat gerbang UI",
+    "patokan": "Gerobak dorong hijau dengan kukusan besar",
+    "jam_buka": "09.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0037",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Pondok Cina, Margonda, dan sekitar kampus UI; siang hari mangkal dekat gerbang UI",
+    "menu_andalan": "Siomay + batagor",
+    "populer": true,
+    "jadwal_keliling": [
+      {
+        "jam": "09.00 - 12.00",
+        "lokasi": "Keliling Pondok Cina"
+      },
+      {
+        "jam": "12.00 - 15.00",
+        "lokasi": "Berhenti dekat gerbang UI (jam makan siang)"
+      },
+      {
+        "jam": "15.00 - 20.00",
+        "lokasi": "Keliling Margonda"
+      }
+    ],
+    "gambar": "images/food/37.jpg"
+  },
+  {
+    "id": "u38",
+    "nama_usaha": "Cakwe & Odading Koh Aliong",
+    "kategori": "Kue dan roti",
+    "menu": [
+      {
+        "nama": "Cakwe (per biji)",
+        "harga": 3000
+      },
+      {
+        "nama": "Cakwe (isi 5)",
+        "harga": 12000
+      },
+      {
+        "nama": "Odading (per biji)",
+        "harga": 5000
+      },
+      {
+        "nama": "Odading isi coklat",
+        "harga": 7000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru No. 22",
+    "patokan": "Ruko kecil dengan wajan besar di depan",
+    "jam_buka": "06.00 - 14.00 (tutup hari Senin)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0038",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Cakwe (per biji)",
+    "populer": false,
+    "gambar": "images/food/38.jpg"
+  },
+  {
+    "id": "u39",
+    "nama_usaha": "Lontong Balap Cak Rohman",
+    "kategori": "Makanan khas daerah",
+    "menu": [
+      {
+        "nama": "Lontong balap",
+        "harga": 15000
+      },
+      {
+        "nama": "Lontong balap + sate kerang",
+        "harga": 22000
+      },
+      {
+        "nama": "Tahu tek",
+        "harga": 15000
+      },
+      {
+        "nama": "Es jeruk",
+        "harga": 5000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya, dekat Gg. Melati",
+    "patokan": "Warung tenda biru",
+    "jam_buka": "08.00 - 20.00 (tutup hari Selasa)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0039",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Lontong balap",
+    "populer": false,
+    "gambar": "images/food/39.jpg"
+  },
+  {
+    "id": "u40",
+    "nama_usaha": "Nasi Kuning Bu Eni",
+    "kategori": "Sarapan",
+    "menu": [
+      {
+        "nama": "Nasi kuning komplit",
+        "harga": 12000
+      },
+      {
+        "nama": "Nasi kuning porsi hemat",
+        "harga": 8000
+      },
+      {
+        "nama": "Nasi kuning + ayam suwir",
+        "harga": 15000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan No. 18",
+    "patokan": "Teras rumah dekat tukang tambal ban",
+    "jam_buka": "05.30 - 10.30 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0040",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Nasi kuning komplit",
+    "populer": false,
+    "gambar": "images/food/40.jpg"
+  },
+  {
+    "id": "u41",
+    "nama_usaha": "Nasi Uduk Bu Siti",
+    "kategori": "Sarapan",
+    "menu": [
+      {
+        "nama": "Nasi uduk + telur dadar",
+        "harga": 12000
+      },
+      {
+        "nama": "Nasi uduk + ayam goreng",
+        "harga": 18000
+      },
+      {
+        "nama": "Nasi uduk + semur jengkol",
+        "harga": 15000
+      },
+      {
+        "nama": "Bakwan jagung",
+        "harga": 1500
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Tanah Baru Raya, depan Masjid Nurul Huda",
+    "patokan": "Gerobak nasi uduk dengan tenda abu-abu",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0041",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Nasi uduk + ayam goreng",
+    "populer": true,
+    "gambar": "images/food/41.jpg"
+  },
+  {
+    "id": "u42",
+    "nama_usaha": "Nasi Bakar Bang Ridwan",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Nasi bakar ayam suwir",
+        "harga": 15000
+      },
+      {
+        "nama": "Nasi bakar teri",
+        "harga": 12000
+      },
+      {
+        "nama": "Nasi bakar cumi",
+        "harga": 18000
+      },
+      {
+        "nama": "Es teh manis",
+        "harga": 4000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Jl. Margonda Raya, gang samping kos Mawar",
+    "patokan": "Tenda oranye dengan asap bakaran",
+    "jam_buka": "16.00 - 23.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar kampus UI"
+    ],
+    "whatsapp": "0812-0000-0042",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Nasi bakar ayam suwir",
+    "populer": true,
+    "gambar": "images/food/42.jpg"
+  },
+  {
+    "id": "u43",
+    "nama_usaha": "Ketan Serundeng Bu Painem",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Ketan serundeng",
+        "harga": 6000
+      },
+      {
+        "nama": "Ketan hitam",
+        "harga": 7000
+      },
+      {
+        "nama": "Ketan bubuk kedelai",
+        "harga": 6000
+      },
+      {
+        "nama": "Ketan susu keju",
+        "harga": 9000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Pasar Cilodong, blok jajanan",
+    "patokan": "Dekat penjual klepon",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0043",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Ketan serundeng",
+    "populer": false,
+    "gambar": "images/food/43.jpg"
+  },
+  {
+    "id": "u44",
+    "nama_usaha": "Mendoan Hangat Mbak Tini",
+    "kategori": "Gorengan",
+    "menu": [
+      {
+        "nama": "Mendoan (per biji)",
+        "harga": 2000
+      },
+      {
+        "nama": "Mendoan (isi 5)",
+        "harga": 8000
+      },
+      {
+        "nama": "Tahu goreng sambal kecap",
+        "harga": 6000
+      },
+      {
+        "nama": "Es teh manis",
+        "harga": 3000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Jl. Kukusan Kelurahan, dekat kos Putri Asri",
+    "patokan": "Warung kecil dengan wajan di depan",
+    "jam_buka": "10.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0044",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Mendoan (per biji)",
+    "populer": false,
+    "gambar": "images/food/44.jpg"
+  },
+  {
+    "id": "u45",
+    "nama_usaha": "Martabak Bang Haji Rois",
+    "kategori": "Jajanan malam",
+    "menu": [
+      {
+        "nama": "Martabak manis coklat keju",
+        "harga": 35000
+      },
+      {
+        "nama": "Martabak manis spesial",
+        "harga": 45000
+      },
+      {
+        "nama": "Martabak telur ayam",
+        "harga": 30000
+      },
+      {
+        "nama": "Martabak mini coklat",
+        "harga": 15000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat perempatan Gg. Kober",
+    "patokan": "Gerobak merah dengan lampu neon",
+    "jam_buka": "16.00 - 00.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0045",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Martabak manis spesial",
+    "populer": true,
+    "gambar": "images/food/45.jpg"
+  },
+  {
+    "id": "u46",
+    "nama_usaha": "Sosis Bakar & Roti Bakar Bang Jali",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Sosis bakar",
+        "harga": 6000
+      },
+      {
+        "nama": "Roti bakar coklat keju",
+        "harga": 15000
+      },
+      {
+        "nama": "Roti bakar srikaya",
+        "harga": 12000
+      },
+      {
+        "nama": "Roti bakar susu",
+        "harga": 12000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 33, dekat Gg. Melati",
+    "patokan": "Gerobak biru dengan tulisan Roti Bakar",
+    "jam_buka": "16.00 - 23.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Cimanggis"
+    ],
+    "whatsapp": "0812-0000-0046",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Sosis bakar",
+    "populer": false,
+    "gambar": "images/food/46.jpg"
+  },
+  {
+    "id": "u47",
+    "nama_usaha": "Bacang & Lemper Bu Lien",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Bacang ayam",
+        "harga": 15000
+      },
+      {
+        "nama": "Bacang daging",
+        "harga": 18000
+      },
+      {
+        "nama": "Lemper ayam",
+        "harga": 3000
+      },
+      {
+        "nama": "Lemper abon",
+        "harga": 3500
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda No. 30",
+    "patokan": "Toko kecil dekat klenteng",
+    "jam_buka": "07.00 - 15.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0047",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bacang ayam",
+    "populer": false,
+    "gambar": "images/food/47.jpg"
+  },
+  {
+    "id": "u48",
+    "nama_usaha": "Lapis Surabaya Bu Hesti",
+    "kategori": "Kue dan oleh-oleh",
+    "menu": [
+      {
+        "nama": "Lapis Surabaya (per potong)",
+        "harga": 8000
+      },
+      {
+        "nama": "Lapis Surabaya (loyang kecil)",
+        "harga": 120000
+      },
+      {
+        "nama": "Bika ambon (per potong)",
+        "harga": 6000
+      }
+    ],
+    "area": "Cinere, Depok",
+    "alamat": "Jl. Cinere Raya Gg. Dahlia No. 11",
+    "patokan": "Rumah cat putih, ambil di teras",
+    "jam_buka": "Pre-order via WhatsApp (H-2), ambil 09.00 - 17.00",
+    "cara_pesan": [
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0048",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Lapis Surabaya (per potong)",
+    "populer": false,
+    "gambar": "images/food/48.jpg"
+  },
+  {
+    "id": "u49",
+    "nama_usaha": "Lumpia Semarang Bu Tan",
+    "kategori": "Makanan ringan",
+    "menu": [
+      {
+        "nama": "Lumpia basah",
+        "harga": 12000
+      },
+      {
+        "nama": "Lumpia goreng (per biji)",
+        "harga": 4000
+      },
+      {
+        "nama": "Lumpia semarang rebung",
+        "harga": 15000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru No. 40",
+    "patokan": "Warung kecil dekat apotek",
+    "jam_buka": "09.00 - 19.00 (tutup hari Senin)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0049",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Lumpia basah",
+    "populer": false,
+    "gambar": "images/food/49.jpg"
+  },
+  {
+    "id": "u50",
+    "nama_usaha": "Es Coklat Kak Dinda",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es coklat",
+        "harga": 8000
+      },
+      {
+        "nama": "Es coklat oreo",
+        "harga": 12000
+      },
+      {
+        "nama": "Es milo",
+        "harga": 10000
+      }
+    ],
+    "area": "Kukusan, Depok",
+    "alamat": "Jl. Kukusan Teknik, depan gerbang Fakultas",
+    "patokan": "Kios kecil dengan banner coklat",
+    "jam_buka": "09.00 - 21.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar kampus UI"
+    ],
+    "whatsapp": "0812-0000-0050",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Es coklat",
+    "populer": false,
+    "gambar": "images/food/50.jpg"
+  },
+  {
+    "id": "u51",
+    "nama_usaha": "Es Teler & Es Campur Bu Neni",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es teler",
+        "harga": 15000
+      },
+      {
+        "nama": "Es campur",
+        "harga": 12000
+      },
+      {
+        "nama": "Es sop buah",
+        "harga": 12000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya No. 25",
+    "patokan": "Warung hijau dengan kulkas kaca besar",
+    "jam_buka": "10.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0051",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Es teler",
+    "populer": false,
+    "gambar": "images/food/51.jpg"
+  },
+  {
+    "id": "u52",
+    "nama_usaha": "Es Serut Pelangi Pak Dayat",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es serut sirup",
+        "harga": 5000
+      },
+      {
+        "nama": "Es serut susu",
+        "harga": 7000
+      },
+      {
+        "nama": "Es serut jumbo",
+        "harga": 8000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Depan SDN Sukmajaya 4",
+    "patokan": "Gerobak dengan sirup warna-warni",
+    "jam_buka": "12.00 - 18.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0052",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es serut sirup",
+    "populer": false,
+    "gambar": "images/food/52.jpg"
+  },
+  {
+    "id": "u53",
+    "nama_usaha": "Tahu Sumedang Bu Elis",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Tahu sumedang (isi 5)",
+        "harga": 10000
+      },
+      {
+        "nama": "Tahu sumedang (isi 10)",
+        "harga": 18000
+      },
+      {
+        "nama": "Tahu sumedang + cabai rawit",
+        "harga": 12000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Jl. Limo Raya, depan pangkalan ojek",
+    "patokan": "Gerobak tahu dengan wajan besar",
+    "jam_buka": "09.00 - 19.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0053",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "rute_keliling": "Keliling Limo sampai Cinere; sering berhenti di depan pangkalan ojek Jl. Limo Raya",
+    "menu_andalan": "Tahu sumedang (isi 5)",
+    "populer": false,
+    "jadwal_keliling": [
+      {
+        "jam": "09.00 - 13.00",
+        "lokasi": "Keliling Limo"
+      },
+      {
+        "jam": "13.00 - 16.00",
+        "lokasi": "Berhenti di depan pangkalan ojek Jl. Limo Raya"
+      },
+      {
+        "jam": "16.00 - 19.00",
+        "lokasi": "Keliling ke arah Cinere"
+      }
+    ],
+    "gambar": "images/food/53.jpg"
+  },
+  {
+    "id": "u54",
+    "nama_usaha": "Es Teh Jumbo Bang Rizal",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es teh manis jumbo",
+        "harga": 5000
+      },
+      {
+        "nama": "Es teh lemon jumbo",
+        "harga": 8000
+      },
+      {
+        "nama": "Es teh tawar",
+        "harga": 3000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Gg. Kober",
+    "patokan": "Gerobak biru dengan banner Es Teh Jumbo",
+    "jam_buka": "09.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Margonda"
+    ],
+    "whatsapp": "0812-0000-0054",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es teh manis jumbo",
+    "populer": true,
+    "gambar": "images/food/54.jpg"
+  },
+  {
+    "id": "u55",
+    "nama_usaha": "Es Cincau Bu Darmi",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es cincau polos",
+        "harga": 5000
+      },
+      {
+        "nama": "Es cincau hijau santan gula merah",
+        "harga": 7000
+      },
+      {
+        "nama": "Es cincau hitam susu",
+        "harga": 8000
+      },
+      {
+        "nama": "Es cincau campur",
+        "harga": 10000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru, depan toko kain",
+    "patokan": "Gerobak kayu dengan toples cincau",
+    "jam_buka": "10.00 - 19.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0055",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es cincau hijau santan gula merah",
+    "populer": false,
+    "gambar": "images/food/55.jpg"
+  },
+  {
+    "id": "u56",
+    "nama_usaha": "Es Kelapa Muda Pak Bejo",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es kelapa muda polos",
+        "harga": 5000
+      },
+      {
+        "nama": "Es kelapa muda gula merah",
+        "harga": 8000
+      },
+      {
+        "nama": "Es kelapa jeruk",
+        "harga": 10000
+      },
+      {
+        "nama": "Kelapa muda utuh",
+        "harga": 15000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan, dekat Pasar Sawangan",
+    "patokan": "Lapak dengan tumpukan kelapa hijau",
+    "jam_buka": "08.00 - 18.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0056",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Es kelapa muda gula merah",
+    "populer": true,
+    "gambar": "images/food/56.jpg"
+  },
+  {
+    "id": "u57",
+    "nama_usaha": "Susu Jahe Mang Kiki",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Wedang jahe",
+        "harga": 5000
+      },
+      {
+        "nama": "Susu jahe",
+        "harga": 8000
+      },
+      {
+        "nama": "Susu jahe telur",
+        "harga": 12000
+      }
+    ],
+    "area": "Pondok Cina, Depok",
+    "alamat": "Jl. Margonda Raya, depan Stasiun Pondok Cina",
+    "patokan": "Gerobak hijau penuh stiker, buka malam",
+    "jam_buka": "18.00 - 01.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0057",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Susu jahe",
+    "populer": false,
+    "gambar": "images/food/57.jpg"
+  },
+  {
+    "id": "u58",
+    "nama_usaha": "Es Lilin Bu Yati",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es lilin kacang hijau",
+        "harga": 1000
+      },
+      {
+        "nama": "Es lilin susu",
+        "harga": 2000
+      },
+      {
+        "nama": "Es lilin coklat",
+        "harga": 3000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Depan SDN Sukmajaya 3",
+    "patokan": "Meja dengan boks es warna oranye",
+    "jam_buka": "09.00 - 15.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0058",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es lilin susu",
+    "populer": false,
+    "gambar": "images/food/58.jpg"
+  },
+  {
+    "id": "u59",
+    "nama_usaha": "Kue Talam Bu Rukmi",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue talam pandan (per biji)",
+        "harga": 2500
+      },
+      {
+        "nama": "Kue talam ubi (per biji)",
+        "harga": 2000
+      },
+      {
+        "nama": "Kue talam jumbo",
+        "harga": 5000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Pasar Pancoran Mas, lapak jajan lantai 1",
+    "patokan": "Dekat penjual bunga tabur",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0059",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue talam pandan",
+    "populer": false,
+    "gambar": "images/food/59.jpg"
+  },
+  {
+    "id": "u60",
+    "nama_usaha": "Nagasari Mbah Sum",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Nagasari pisang (per biji)",
+        "harga": 2500
+      },
+      {
+        "nama": "Nagasari isi 5",
+        "harga": 11000
+      },
+      {
+        "nama": "Nagasari jumbo",
+        "harga": 5000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Pasar Cilodong, blok jajanan",
+    "patokan": "Lapak beralas daun pisang",
+    "jam_buka": "05.00 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0060",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Nagasari pisang",
+    "populer": false,
+    "gambar": "images/food/60.jpg"
+  },
+  {
+    "id": "u61",
+    "nama_usaha": "Kue Lapis Bu Wati",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue lapis mini (per potong)",
+        "harga": 2000
+      },
+      {
+        "nama": "Kue lapis pelangi (per potong)",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue lapis jumbo",
+        "harga": 5000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Pasar Limo, lapak depan",
+    "patokan": "Dekat warung kopi",
+    "jam_buka": "05.30 - 12.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0061",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue lapis pelangi",
+    "populer": false,
+    "gambar": "images/food/61.jpg"
+  },
+  {
+    "id": "u62",
+    "nama_usaha": "Getuk Singkong Mbok Parti",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Getuk singkong porsi kecil",
+        "harga": 3000
+      },
+      {
+        "nama": "Getuk singkong porsi sedang",
+        "harga": 5000
+      },
+      {
+        "nama": "Getuk singkong porsi besar",
+        "harga": 8000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan Gg. Kenanga",
+    "patokan": "Warung kecil di sebelah bengkel",
+    "jam_buka": "06.00 - 14.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0062",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Getuk singkong porsi sedang",
+    "populer": false,
+    "gambar": "images/food/62.jpg"
+  },
+  {
+    "id": "u63",
+    "nama_usaha": "Wajik Ketan Bu Sarini",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Wajik ketan (per potong)",
+        "harga": 2000
+      },
+      {
+        "nama": "Wajik ketan isi 3",
+        "harga": 6000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Pasar Cimanggis, lapak jajan",
+    "patokan": "Dekat tukang timbang",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0063",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Wajik ketan isi 3",
+    "populer": false,
+    "gambar": "images/food/63.jpg"
+  },
+  {
+    "id": "u64",
+    "nama_usaha": "Kentang Spiral Kak Ari",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Kentang spiral mini",
+        "harga": 5000
+      },
+      {
+        "nama": "Kentang spiral original",
+        "harga": 10000
+      },
+      {
+        "nama": "Kentang spiral jumbo keju",
+        "harga": 15000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Depok Town Square",
+    "patokan": "Gerobak kuning dengan kentang tertusuk",
+    "jam_buka": "14.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0064",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kentang spiral jumbo keju",
+    "populer": true,
+    "gambar": "images/food/64.jpg"
+  },
+  {
+    "id": "u65",
+    "nama_usaha": "Corndog Kak Vina",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Corndog sosis",
+        "harga": 8000
+      },
+      {
+        "nama": "Corndog mozzarella",
+        "harga": 15000
+      },
+      {
+        "nama": "Corndog sosis dan mozzarella",
+        "harga": 20000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya, dekat kos Cempaka",
+    "patokan": "Gerobak putih dengan lampu LED",
+    "jam_buka": "13.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Beji"
+    ],
+    "whatsapp": "0812-0000-0065",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Corndog sosis dan mozzarella",
+    "populer": true,
+    "gambar": "images/food/65.jpg"
+  },
+  {
+    "id": "u66",
+    "nama_usaha": "Tahu Crispy Mas Joni",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Tahu crispy cup kecil",
+        "harga": 5000
+      },
+      {
+        "nama": "Tahu crispy cup sedang",
+        "harga": 8000
+      },
+      {
+        "nama": "Tahu crispy cup besar",
+        "harga": 12000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, depan SMP Negeri 6",
+    "patokan": "Gerobak biru dengan botol saus",
+    "jam_buka": "12.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Sukmajaya"
+    ],
+    "whatsapp": "0812-0000-0066",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Tahu crispy cup sedang",
+    "populer": false,
+    "gambar": "images/food/66.jpg"
+  },
+  {
+    "id": "u67",
+    "nama_usaha": "Maklor Teh Ayu",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Maklor original",
+        "harga": 3000
+      },
+      {
+        "nama": "Maklor pedas",
+        "harga": 6000
+      },
+      {
+        "nama": "Maklor keju balado",
+        "harga": 10000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Depan SDN Tanah Baru 2",
+    "patokan": "Gerobak kecil merah",
+    "jam_buka": "11.00 - 17.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0067",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Maklor pedas",
+    "populer": false,
+    "gambar": "images/food/67.jpg"
+  },
+  {
+    "id": "u68",
+    "nama_usaha": "Takoyaki Kak Reno",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Takoyaki isi 5",
+        "harga": 10000
+      },
+      {
+        "nama": "Takoyaki isi 8",
+        "harga": 15000
+      },
+      {
+        "nama": "Takoyaki isi 10",
+        "harga": 20000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Jl. Depok Jaya, dekat Pasar Depok Jaya",
+    "patokan": "Gerobak putih tulisan Takoyaki",
+    "jam_buka": "15.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0068",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Takoyaki isi 8",
+    "populer": true,
+    "gambar": "images/food/68.jpg"
+  },
+  {
+    "id": "u69",
+    "nama_usaha": "Kerak Telor Bang Hasan",
+    "kategori": "Makanan khas daerah",
+    "menu": [
+      {
+        "nama": "Kerak telor telur ayam",
+        "harga": 15000
+      },
+      {
+        "nama": "Kerak telor telur bebek",
+        "harga": 25000
+      },
+      {
+        "nama": "Kerak telor spesial",
+        "harga": 30000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Gg. Mawar",
+    "patokan": "Gerobak kayu dengan arang menyala",
+    "jam_buka": "16.00 - 23.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0069",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kerak telor telur bebek",
+    "populer": true,
+    "gambar": "images/food/69.jpg"
+  },
+  {
+    "id": "u70",
+    "nama_usaha": "Kue Rangi Mang Dadang",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Kue rangi original",
+        "harga": 5000
+      },
+      {
+        "nama": "Kue rangi coklat keju",
+        "harga": 10000
+      },
+      {
+        "nama": "Kue rangi spesial",
+        "harga": 12000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 34, dekat halte",
+    "patokan": "Gerobak dengan cetakan arang",
+    "jam_buka": "14.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0070",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kue rangi coklat keju",
+    "populer": false,
+    "gambar": "images/food/70.jpg"
+  },
+  {
+    "id": "u71",
+    "nama_usaha": "Kue Pancong Pak Mamat",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Kue pancong original",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue pancong coklat keju",
+        "harga": 7000
+      },
+      {
+        "nama": "Kue pancong isi 4",
+        "harga": 10000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Jl. Depok Jaya, depan masjid Al-Ikhlas",
+    "patokan": "Gerobak merah muda",
+    "jam_buka": "15.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Depok Jaya"
+    ],
+    "whatsapp": "0812-0000-0071",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kue pancong coklat keju",
+    "populer": false,
+    "gambar": "images/food/71.jpg"
+  },
+  {
+    "id": "u72",
+    "nama_usaha": "Kembang Tahu Pak Hasyim",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Kembang tahu mangkuk kecil",
+        "harga": 5000
+      },
+      {
+        "nama": "Kembang tahu mangkuk besar",
+        "harga": 8000
+      },
+      {
+        "nama": "Kembang tahu + telur",
+        "harga": 12000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda, dekat toko emas",
+    "patokan": "Gerobak dorong dengan termos besar",
+    "jam_buka": "16.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0072",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Kembang tahu mangkuk besar",
+    "populer": false,
+    "gambar": "images/food/72.jpg"
+  },
+  {
+    "id": "u73",
+    "nama_usaha": "Onde-onde Mbak Lastri",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Onde-onde kacang hijau",
+        "harga": 3000
+      },
+      {
+        "nama": "Onde-onde jumbo",
+        "harga": 5000
+      },
+      {
+        "nama": "Onde-onde mini (isi 5)",
+        "harga": 10000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Pasar Cilodong, blok jajanan",
+    "patokan": "Dekat penjual klepon",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0073",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Onde-onde kacang hijau",
+    "populer": true,
+    "gambar": "images/food/73.jpg"
+  },
+  {
+    "id": "u74",
+    "nama_usaha": "Kue Apem Mbah Ginem",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue apem putih",
+        "harga": 2500
+      },
+      {
+        "nama": "Kue apem gula merah",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue apem (isi 5)",
+        "harga": 12000
+      }
+    ],
+    "area": "Sawangan, Depok",
+    "alamat": "Jl. Raya Sawangan Gg. Melati No. 4",
+    "patokan": "Rumah dengan meja jajan di teras",
+    "jam_buka": "05.30 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0074",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue apem gula merah",
+    "populer": false,
+    "gambar": "images/food/74.jpg"
+  },
+  {
+    "id": "u75",
+    "nama_usaha": "Carabikang Bu Nur",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Carabikang pandan",
+        "harga": 3000
+      },
+      {
+        "nama": "Carabikang original",
+        "harga": 3000
+      },
+      {
+        "nama": "Carabikang box isi 6",
+        "harga": 17000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Pasar Limo, lapak jajan",
+    "patokan": "Dekat pintu masuk pasar",
+    "jam_buka": "05.30 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0075",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Carabikang box isi 6",
+    "populer": false,
+    "gambar": "images/food/75.jpg"
+  },
+  {
+    "id": "u76",
+    "nama_usaha": "Kue Semprong Bu Fatma",
+    "kategori": "Kue dan oleh-oleh",
+    "menu": [
+      {
+        "nama": "Kue semprong toples kecil",
+        "harga": 15000
+      },
+      {
+        "nama": "Kue semprong toples besar",
+        "harga": 30000
+      },
+      {
+        "nama": "Kue semprong wijen",
+        "harga": 20000
+      }
+    ],
+    "area": "Cinere, Depok",
+    "alamat": "Jl. Cinere Raya Gg. Cempaka No. 9",
+    "patokan": "Rumah cat hijau",
+    "jam_buka": "Pre-order via WhatsApp, ambil 09.00 - 17.00",
+    "cara_pesan": [
+      "WhatsApp",
+      "COD sekitar Cinere"
+    ],
+    "whatsapp": "0812-0000-0076",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue semprong toples besar",
+    "populer": false,
+    "gambar": "images/food/76.jpg"
+  },
+  {
+    "id": "u77",
+    "nama_usaha": "Bolu Kukus Mekar Bu Dewi",
+    "kategori": "Kue basah",
+    "menu": [
+      {
+        "nama": "Bolu kukus mekar (per biji)",
+        "harga": 3000
+      },
+      {
+        "nama": "Bolu kukus mekar isi 6",
+        "harga": 15000
+      },
+      {
+        "nama": "Bolu kukus mekar isi 12",
+        "harga": 28000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya Gg. Kenari No. 2",
+    "patokan": "Kios kecil dengan kukusan di depan",
+    "jam_buka": "06.00 - 17.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0077",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bolu kukus mekar isi 6",
+    "populer": true,
+    "gambar": "images/food/77.jpg"
+  },
+  {
+    "id": "u78",
+    "nama_usaha": "Kue Lumpur Bu Haji Salamah",
+    "kategori": "Kue basah",
+    "menu": [
+      {
+        "nama": "Kue lumpur kismis (per biji)",
+        "harga": 3500
+      },
+      {
+        "nama": "Kue lumpur isi 6",
+        "harga": 20000
+      },
+      {
+        "nama": "Kue lumpur isi 12",
+        "harga": 38000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 35, dekat Gg. Haji Salamah",
+    "patokan": "Warung kue dengan cetakan besi",
+    "jam_buka": "06.00 - 16.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0078",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue lumpur kismis",
+    "populer": false,
+    "gambar": "images/food/78.jpg"
+  },
+  {
+    "id": "u79",
+    "nama_usaha": "Kacang Rebus Pak Salim",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Kacang tanah rebus",
+        "harga": 8000
+      },
+      {
+        "nama": "Kedelai rebus",
+        "harga": 10000
+      },
+      {
+        "nama": "Kacang bogor rebus",
+        "harga": 8000
+      },
+      {
+        "nama": "Bungkus kecil campur",
+        "harga": 5000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, sekitar Stasiun Depok Baru",
+    "patokan": "Sepeda motor dengan keranjang bambu",
+    "jam_buka": "15.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0079",
+    "di_aplikasi_online": false,
+    "tipe": "Keliling",
+    "menu_andalan": "Kacang tanah rebus",
+    "populer": false,
+    "gambar": "images/food/79.jpg",
+    "rute_keliling": "Keliling sekitar Stasiun Depok Baru dan Jl. Nusantara; berhenti di depan minimarket sore hari",
+    "jadwal_keliling": [
+      {
+        "jam": "15.00 - 17.00",
+        "lokasi": "Keliling sekitar Stasiun Depok Baru"
+      },
+      {
+        "jam": "17.00 - 19.30",
+        "lokasi": "Berhenti di depan minimarket Jl. Nusantara Raya"
+      },
+      {
+        "jam": "19.30 - 21.00",
+        "lokasi": "Keliling perumahan sekitar Sukmajaya"
+      }
+    ]
+  },
+  {
+    "id": "u80",
+    "nama_usaha": "Bajigur Mang Ocim",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Bajigur",
+        "harga": 6000
+      },
+      {
+        "nama": "Bandrek",
+        "harga": 6000
+      },
+      {
+        "nama": "Bajigur susu",
+        "harga": 8000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Jl. Depok Jaya, dekat perempatan",
+    "patokan": "Gerobak dengan tungku kecil, buka malam",
+    "jam_buka": "17.00 - 24.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0080",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Bajigur susu",
+    "populer": false,
+    "gambar": "images/food/80.jpg"
+  },
+  {
+    "id": "u81",
+    "nama_usaha": "Sekotong Bu Ratih",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Sekotong kelapa",
+        "harga": 8000
+      },
+      {
+        "nama": "Sekotong spesial",
+        "harga": 10000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru, depan apotek",
+    "patokan": "Gerobak dengan toples kacang",
+    "jam_buka": "11.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0081",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Sekotong spesial",
+    "populer": false,
+    "gambar": "images/food/81.jpg"
+  },
+  {
+    "id": "u82",
+    "nama_usaha": "Pop Ice Kak Dini",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Pop ice rasa-rasa",
+        "harga": 5000
+      },
+      {
+        "nama": "Pop ice jumbo",
+        "harga": 8000
+      },
+      {
+        "nama": "Pop ice topping",
+        "harga": 10000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Depan SDN Sukmajaya 2",
+    "patokan": "Gerobak dengan payung warna-warni",
+    "jam_buka": "10.00 - 18.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar sekolah"
+    ],
+    "whatsapp": "0812-0000-0082",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Pop ice jumbo",
+    "populer": true,
+    "gambar": "images/food/82.jpg"
+  },
+  {
+    "id": "u83",
+    "nama_usaha": "Capucino Cincau Kak Fadli",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Capucino cincau kecil",
+        "harga": 8000
+      },
+      {
+        "nama": "Capucino cincau regular",
+        "harga": 10000
+      },
+      {
+        "nama": "Capucino cincau besar",
+        "harga": 12000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Depok Town Square",
+    "patokan": "Gerobak hitam dengan lampu hias",
+    "jam_buka": "12.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Margonda"
+    ],
+    "whatsapp": "0812-0000-0083",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Capucino cincau regular",
+    "populer": true,
+    "gambar": "images/food/83.jpg"
+  },
+  {
+    "id": "u84",
+    "nama_usaha": "Dimsum Mentai Kak Selly",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Dimsum mentai isi 4",
+        "harga": 15000
+      },
+      {
+        "nama": "Dimsum mentai isi 6",
+        "harga": 20000
+      },
+      {
+        "nama": "Dimsum mentai isi 8",
+        "harga": 25000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Jl. Limo Raya No. 21",
+    "patokan": "Kios kecil dengan kukusan bambu",
+    "jam_buka": "10.00 - 20.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp",
+      "COD sekitar Limo"
+    ],
+    "whatsapp": "0812-0000-0084",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Dimsum mentai isi 6",
+    "populer": true,
+    "gambar": "images/food/84.jpg"
+  },
+  {
+    "id": "u85",
+    "nama_usaha": "Bakso Malang Cak Yono",
+    "kategori": "Makanan berat",
+    "menu": [
+      {
+        "nama": "Bakso malang kuah",
+        "harga": 15000
+      },
+      {
+        "nama": "Bakso malang komplit",
+        "harga": 18000
+      },
+      {
+        "nama": "Bakso malang spesial",
+        "harga": 22000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda No. 44",
+    "patokan": "Warung tenda dekat Pasar Pancoran Mas",
+    "jam_buka": "10.00 - 21.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0085",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bakso malang komplit",
+    "populer": false,
+    "gambar": "images/food/85.jpg"
+  },
+  {
+    "id": "u86",
+    "nama_usaha": "Es Kul-Kul Kak Tasya",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es kul-kul polos",
+        "harga": 2000
+      },
+      {
+        "nama": "Es kul-kul pisang coklat",
+        "harga": 3000
+      },
+      {
+        "nama": "Es kul-kul topping",
+        "harga": 5000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Depan SDN Sukmajaya 4",
+    "patokan": "Meja dengan boks es",
+    "jam_buka": "09.00 - 15.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0086",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es kul-kul pisang coklat",
+    "populer": false,
+    "gambar": "images/food/86.jpg"
+  },
+  {
+    "id": "u87",
+    "nama_usaha": "Es Jelly Mbak Putri",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es jelly cup kecil",
+        "harga": 2000
+      },
+      {
+        "nama": "Es jelly cup sedang",
+        "harga": 3500
+      },
+      {
+        "nama": "Es jelly buah",
+        "harga": 5000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Depan SDN Cilodong 1",
+    "patokan": "Gerobak biru dengan deretan cup",
+    "jam_buka": "09.00 - 16.00 (hari sekolah)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0087",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es jelly buah",
+    "populer": false,
+    "gambar": "images/food/87.jpg"
+  },
+  {
+    "id": "u88",
+    "nama_usaha": "Es Doger Pak Rahmat",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Es doger biasa",
+        "harga": 5000
+      },
+      {
+        "nama": "Es doger",
+        "harga": 8000
+      },
+      {
+        "nama": "Es doger spesial",
+        "harga": 12000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 33, dekat pangkalan ojek",
+    "patokan": "Gerobak merah dengan lonceng",
+    "jam_buka": "11.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0088",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Es doger spesial",
+    "populer": true,
+    "gambar": "images/food/88.jpg"
+  },
+  {
+    "id": "u89",
+    "nama_usaha": "Nasi Pecel Bu Sri",
+    "kategori": "Sarapan",
+    "menu": [
+      {
+        "nama": "Nasi pecel",
+        "harga": 8000
+      },
+      {
+        "nama": "Nasi pecel + telur",
+        "harga": 12000
+      },
+      {
+        "nama": "Nasi pecel + ayam + rempeyek",
+        "harga": 18000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru No. 33",
+    "patokan": "Warung kecil dekat sekolah",
+    "jam_buka": "05.30 - 12.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0089",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Nasi pecel + telur",
+    "populer": true,
+    "gambar": "images/food/89.jpg"
+  },
+  {
+    "id": "u90",
+    "nama_usaha": "Bakpao Koh Tan Hok",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Bakpao coklat",
+        "harga": 5000
+      },
+      {
+        "nama": "Bakpao ayam",
+        "harga": 8000
+      },
+      {
+        "nama": "Bakpao daging jumbo",
+        "harga": 10000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Jl. Pemuda, dekat klenteng",
+    "patokan": "Toko kecil dengan kukusan tinggi",
+    "jam_buka": "06.00 - 17.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0090",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Bakpao daging jumbo",
+    "populer": false,
+    "gambar": "images/food/90.jpg"
+  },
+  {
+    "id": "u91",
+    "nama_usaha": "Sop Durian Bang Dul",
+    "kategori": "Minuman",
+    "menu": [
+      {
+        "nama": "Sop durian kecil",
+        "harga": 15000
+      },
+      {
+        "nama": "Sop durian regular",
+        "harga": 20000
+      },
+      {
+        "nama": "Sop durian spesial",
+        "harga": 25000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Jl. Depok Jaya, depan toko bangunan",
+    "patokan": "Kios kecil dengan durian di etalase",
+    "jam_buka": "12.00 - 22.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0091",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Sop durian spesial",
+    "populer": true,
+    "gambar": "images/food/91.jpg"
+  },
+  {
+    "id": "u92",
+    "nama_usaha": "Cimol Bojot Kak Lia",
+    "kategori": "Camilan",
+    "menu": [
+      {
+        "nama": "Cimol bumbu pedas",
+        "harga": 5000
+      },
+      {
+        "nama": "Cimol bumbu keju",
+        "harga": 8000
+      },
+      {
+        "nama": "Cimol jumbo",
+        "harga": 10000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya, depan SMP Negeri 6",
+    "patokan": "Gerobak kuning dengan bumbu tabur",
+    "jam_buka": "13.00 - 20.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "COD sekitar Sukmajaya"
+    ],
+    "whatsapp": "0812-0000-0092",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Cimol bumbu pedas",
+    "populer": false,
+    "gambar": "images/food/92.jpg"
+  },
+  {
+    "id": "u93",
+    "nama_usaha": "Roti Kukus & Panggang Mas Dedi",
+    "kategori": "Kue dan roti",
+    "menu": [
+      {
+        "nama": "Roti kukus (per biji)",
+        "harga": 5000
+      },
+      {
+        "nama": "Roti panggang coklat keju",
+        "harga": 10000
+      },
+      {
+        "nama": "Roti panggang spesial",
+        "harga": 15000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Margonda Raya, dekat Gg. Kober",
+    "patokan": "Gerobak putih dengan kukusan dan panggangan",
+    "jam_buka": "15.00 - 23.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0093",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Roti panggang coklat keju",
+    "populer": false,
+    "gambar": "images/food/93.jpg"
+  },
+  {
+    "id": "u94",
+    "nama_usaha": "Dadar Gulung Bu Tuti",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Dadar gulung isi kelapa",
+        "harga": 3000
+      },
+      {
+        "nama": "Dadar gulung isi 5",
+        "harga": 14000
+      },
+      {
+        "nama": "Dadar gulung jumbo",
+        "harga": 5000
+      }
+    ],
+    "area": "Pancoran Mas, Depok",
+    "alamat": "Pasar Pancoran Mas, lapak jajan",
+    "patokan": "Dekat penjual bunga tabur",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp untuk pesan banyak"
+    ],
+    "whatsapp": "0812-0000-0094",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Dadar gulung isi kelapa",
+    "populer": true,
+    "gambar": "images/food/94.jpg"
+  },
+  {
+    "id": "u95",
+    "nama_usaha": "Sosis Solo Bu Anita",
+    "kategori": "Kue basah",
+    "menu": [
+      {
+        "nama": "Sosis solo (per biji)",
+        "harga": 3500
+      },
+      {
+        "nama": "Sosis solo isi 5",
+        "harga": 16000
+      },
+      {
+        "nama": "Sosis solo isi 10",
+        "harga": 30000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya Gg. Mawar No. 8",
+    "patokan": "Rumah dengan meja jajan di teras",
+    "jam_buka": "Pre-order via WhatsApp, ambil 08.00 - 17.00",
+    "cara_pesan": [
+      "WhatsApp",
+      "COD sekitar Beji"
+    ],
+    "whatsapp": "0812-0000-0095",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Sosis solo isi 5",
+    "populer": false,
+    "gambar": "images/food/95.jpg"
+  },
+  {
+    "id": "u96",
+    "nama_usaha": "Kue Ku Bu Lanny",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Kue ku kacang hijau (per biji)",
+        "harga": 3500
+      },
+      {
+        "nama": "Kue ku isi 5",
+        "harga": 16000
+      },
+      {
+        "nama": "Kue ku isi 10",
+        "harga": 30000
+      }
+    ],
+    "area": "Tanah Baru, Depok",
+    "alamat": "Jl. Raya Tanah Baru No. 51",
+    "patokan": "Toko kue kecil dekat klenteng",
+    "jam_buka": "07.00 - 17.00 (tutup hari Senin)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0096",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue ku isi 5",
+    "populer": false,
+    "gambar": "images/food/96.jpg"
+  },
+  {
+    "id": "u97",
+    "nama_usaha": "Kue Soes Kak Mita",
+    "kategori": "Kue dan roti",
+    "menu": [
+      {
+        "nama": "Kue soes vla (per biji)",
+        "harga": 3000
+      },
+      {
+        "nama": "Kue soes isi 5",
+        "harga": 10000
+      },
+      {
+        "nama": "Kue soes isi 10",
+        "harga": 18000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya No. 17",
+    "patokan": "Kios kecil dengan etalase kaca",
+    "jam_buka": "08.00 - 18.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0097",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue soes isi 5",
+    "populer": true,
+    "gambar": "images/food/97.jpg"
+  },
+  {
+    "id": "u98",
+    "nama_usaha": "Gethuk Warna Mbok Darmi",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Gethuk warna-warni porsi kecil",
+        "harga": 3000
+      },
+      {
+        "nama": "Gethuk warna-warni porsi sedang",
+        "harga": 5000
+      },
+      {
+        "nama": "Gethuk box isi 10",
+        "harga": 25000
+      }
+    ],
+    "area": "Cilodong, Depok",
+    "alamat": "Pasar Cilodong, blok jajanan",
+    "patokan": "Lapak beralas daun pisang",
+    "jam_buka": "05.00 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0098",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Gethuk warna-warni porsi sedang",
+    "populer": false,
+    "gambar": "images/food/98.jpg"
+  },
+  {
+    "id": "u99",
+    "nama_usaha": "Wingko Babat Bu Tari",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Wingko babat kelapa",
+        "harga": 3000
+      },
+      {
+        "nama": "Wingko babat durian",
+        "harga": 5000
+      },
+      {
+        "nama": "Wingko babat isi 5",
+        "harga": 14000
+      }
+    ],
+    "area": "Limo, Depok",
+    "alamat": "Jl. Limo Raya, depan SDN Limo 2",
+    "patokan": "Gerobak kecil dengan pemanggang",
+    "jam_buka": "08.00 - 17.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0099",
+    "di_aplikasi_online": false,
+    "tipe": "Gerobak mangkal",
+    "menu_andalan": "Wingko babat durian",
+    "populer": false,
+    "gambar": "images/food/99.jpg"
+  },
+  {
+    "id": "u100",
+    "nama_usaha": "Tiwul Mbah Tentrem",
+    "kategori": "Jajanan tradisional",
+    "menu": [
+      {
+        "nama": "Tiwul gula merah",
+        "harga": 5000
+      },
+      {
+        "nama": "Tiwul parutan kelapa",
+        "harga": 5000
+      },
+      {
+        "nama": "Tiwul porsi besar",
+        "harga": 8000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Jl. Raya Bogor KM 36, dekat Gg. Salak",
+    "patokan": "Warung kecil di pinggir jalan",
+    "jam_buka": "06.00 - 14.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0100",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Tiwul gula merah",
+    "populer": false,
+    "gambar": "images/food/100.jpg"
+  },
+  {
+    "id": "u101",
+    "nama_usaha": "Kue Gemblong Bu Yanti",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue gemblong (per biji)",
+        "harga": 2500
+      },
+      {
+        "nama": "Kue gemblong isi 5",
+        "harga": 11000
+      },
+      {
+        "nama": "Kue gemblong isi 10",
+        "harga": 21000
+      }
+    ],
+    "area": "Depok Jaya, Depok",
+    "alamat": "Pasar Depok Jaya, lapak jajan",
+    "patokan": "Dekat tukang timbang",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0101",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue gemblong isi 5",
+    "populer": false,
+    "gambar": "images/food/101.jpg"
+  },
+  {
+    "id": "u102",
+    "nama_usaha": "Ongol-Ongol Bu Mina",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Ongol-ongol (per potong)",
+        "harga": 2500
+      },
+      {
+        "nama": "Ongol-ongol isi 5",
+        "harga": 11000
+      },
+      {
+        "nama": "Ongol-ongol box isi 10",
+        "harga": 22000
+      }
+    ],
+    "area": "Cimanggis, Depok",
+    "alamat": "Pasar Cimanggis, blok jajanan",
+    "patokan": "Dekat penjual kue apem",
+    "jam_buka": "05.00 - 11.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0102",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Ongol-ongol box isi 10",
+    "populer": false,
+    "gambar": "images/food/102.jpg"
+  },
+  {
+    "id": "u103",
+    "nama_usaha": "Cenil Mbak Ratna",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Cenil porsi kecil",
+        "harga": 5000
+      },
+      {
+        "nama": "Cenil porsi sedang",
+        "harga": 6500
+      },
+      {
+        "nama": "Cenil porsi besar",
+        "harga": 8000
+      }
+    ],
+    "area": "Beji, Depok",
+    "alamat": "Jl. Kemiri Raya, dekat kos Cempaka",
+    "patokan": "Meja jajan pagi hari",
+    "jam_buka": "05.30 - 10.00 setiap hari",
+    "cara_pesan": [
+      "Datang langsung"
+    ],
+    "whatsapp": "0812-0000-0103",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Cenil porsi sedang",
+    "populer": false,
+    "gambar": "images/food/103.jpg"
+  },
+  {
+    "id": "u104",
+    "nama_usaha": "Kue Putu Ayu Bu Ema",
+    "kategori": "Jajanan pasar",
+    "menu": [
+      {
+        "nama": "Kue putu ayu (per biji)",
+        "harga": 2500
+      },
+      {
+        "nama": "Kue putu ayu isi 6",
+        "harga": 14000
+      },
+      {
+        "nama": "Kue putu ayu isi 12",
+        "harga": 26000
+      }
+    ],
+    "area": "Sukmajaya, Depok",
+    "alamat": "Jl. Nusantara Raya Gg. Anggrek No. 3",
+    "patokan": "Rumah dengan papan kecil di pagar",
+    "jam_buka": "06.00 - 15.00 (tutup hari Minggu)",
+    "cara_pesan": [
+      "Datang langsung",
+      "WhatsApp"
+    ],
+    "whatsapp": "0812-0000-0104",
+    "di_aplikasi_online": false,
+    "tipe": "Menetap",
+    "menu_andalan": "Kue putu ayu isi 6",
+    "populer": true,
+    "gambar": "images/food/104.jpg"
+  }
+]

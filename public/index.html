@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CariJajan - Chatbot Pencari Jajanan UMKM Depok</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <nav class="topbar">
+        <div class="brand">
+          <span class="brand-icon" aria-hidden="true">🏪</span>
+          <span class="brand-name">CariJajan</span>
+          <span class="brand-tag">🍢 Chatbot Pencari Jajanan UMKM</span>
+        </div>
+        <div class="nav">
+          <button type="button" class="nav-link" id="nav-home">🏠 Beranda</button>
+          <button type="button" class="nav-link" id="nav-about">ⓘ Tentang</button>
+          <button type="button" class="nav-link" id="nav-help">❓ Bantuan</button>
+          <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Ganti tema terang/gelap">
+            <span class="knob" id="theme-knob">☀️</span>
+          </button>
+        </div>
+      </nav>
+
+      <div class="grid">
+        <section class="main">
+          <div class="banner">
+            <div class="banner-text">
+              <h1>CariJajan</h1>
+              <p>Temukan jajanan dan makanan UMKM di sekitarmu, termasuk pedagang keliling!</p>
+              <div class="banner-stats">
+                <span><b id="hero-count">0</b> UMKM</span>
+                <span>📍 Depok</span>
+                <span>🤖 Gemini AI</span>
+              </div>
+            </div>
+            <img class="banner-img" src="images/hero.jpg" alt="Aneka jajanan pasar warna-warni" />
+            <span class="photo-credit">Foto: Johanes Christiono</span>
+          </div>
+
+          <div class="chat-card">
+            <div class="chat-head">
+              <span class="live"><i></i> Online</span>
+              <button id="reset-btn" class="ghost-btn" type="button" title="Hapus riwayat percakapan">
+                ↻ Percakapan baru
+              </button>
+            </div>
+
+            <div id="chat-box" class="chat-box" aria-live="polite"></div>
+
+            <div class="try" id="try-box">
+              <div id="suggestions" class="suggestions"></div>
+            </div>
+
+            <form id="chat-form" class="chat-form" autocomplete="off">
+              <input
+                type="text"
+                id="user-input"
+                placeholder="Mau beli apa nih? Ketik aja, aku langsung jawab..."
+                required
+              />
+              <button type="submit" id="send-btn">➤ Kirim</button>
+            </form>
+            <p class="footnote">
+              Data UMKM pada demo ini adalah data contoh. Jawaban dibuat oleh AI (Gemini); konfirmasi harga
+              dan jam buka ke penjual.
+            </p>
+          </div>
+        </section>
+
+        <aside class="panel">
+          <div class="panel-head">
+            <div>
+              <h2>🏪 UMKM Terdaftar</h2>
+              <p>Daftar jajanan dan makanan UMKM di sekitarmu.</p>
+            </div>
+            <span id="umkm-count" class="badge">0 UMKM</span>
+          </div>
+          <div class="panel-body">
+            <div class="search-row">
+              <input id="search-umkm" type="search" placeholder="🔍 Cari nama, menu, atau area..." />
+              <button type="button" id="filter-toggle" class="filter-btn" aria-label="Filter kategori">⚲ Filter</button>
+            </div>
+            <div id="filters" class="filters" hidden></div>
+            <div id="umkm-list" class="umkm-list"></div>
+            <button type="button" id="show-all" class="show-all">Lihat Semua UMKM →</button>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <dialog id="info-dialog" class="info-dialog">
+      <h3 id="info-title"></h3>
+      <div id="info-body"></div>
+      <button type="button" id="info-close" class="ghost-btn">Tutup</button>
+    </dialog>
+
+    <script src="script.js"></script>
+  </body>
+</html>
